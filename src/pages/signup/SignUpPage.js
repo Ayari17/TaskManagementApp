@@ -77,7 +77,7 @@ class SignUpPage extends Component {
               onChange={e => this.setState({ password: e.target.value })}
             />
           </div>
-          <div className="text-muted" >If the page fails to load please refresh and sorry for the inconvenience :( </div>
+          <div className="text-muted" >Loading may take some Time due to bad hosting services...sorry for the inconvenience :( </div>
           <hr/>
           <div>
             <Button

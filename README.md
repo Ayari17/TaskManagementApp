@@ -1,3 +1,2 @@
-# Task Management Application Front-end
-
-This application acts as the front-end for the Task Management application developed throughout the *NestJS - Zero to Hero* course, produced by Ariel Weinberger.
+# Visit the website (Powered by a Nestjs Api which you can find its source code in the next Repo):
+https://task-management-app-six.vercel.app/

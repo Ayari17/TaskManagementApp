@@ -76,9 +76,7 @@ class SignUpPage extends Component {
               onChange={e => this.setState({ password: e.target.value })}
             />
           </div>
-          <p>
-            Passwords must contain at least 1 upper case letter, 1 lower case letter and one number OR special charracter.
-          </p>
+          <div className="text-muted" >If the page fails to load please refresh and sorry for the inconvenience :( </div>
           <hr/>
           <div>
             <Button
